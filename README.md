@@ -1,1 +1,1 @@
-# CreateMove Boilerplate for CSGO
+# CreateMove Boilerplate for CS:GO
